@@ -1,1 +1,1 @@
-﻿# //build 2016 Workshops
+﻿# Global Azure Bootcamp - Ankara (BilgeAdam)
